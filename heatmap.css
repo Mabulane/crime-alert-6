@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.maps{
+    top: 5px;
+    height: 600px;
+    width: 100%;
+    
+    background: tomato;
+}
+#chartPage{
+    margin:auto;
+    position: relative;
+    background: red;
+    height: 100%;
+    align-items: center;
+}
